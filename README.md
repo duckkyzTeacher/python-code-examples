@@ -1,4 +1,4 @@
-# bad-python-code
+# bad-practice-python-code
 
 #### If-Elif Hell
 ```python
